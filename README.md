@@ -1,9 +1,6 @@
 # CSPB2270_finalProject
 Mythic Fitness final project 
 
-Just to start, the code got pushed into the master branch of the git environment but the read me was in the main, I could not get them to merge,
-I hope you were able to find the information
-
 To save time, once you have all of the files in the project folder, the code to compile and run is 
 'g++ Mythic.cpp Project.cpp -o my_program && ./my_program'
 
